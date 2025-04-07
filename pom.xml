@@ -6,7 +6,7 @@
 	<artifactId>PROJECT4_BDD_DATA_DRIVEN</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PROJECT4_BDD_DATA_DRIVEN</name>
-	<description>BDD + a CUCUMBER +PARALLEL + JAVA + TESTNG/JUNIT + SELENIUM + DATA-DRIVEN</description>
+	<description>BDD + CUCUMBER +PARALLEL + JAVA + TESTNG/JUNIT + SELENIUM + DATA-DRIVEN</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
